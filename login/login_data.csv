@@ -1,0 +1,12 @@
+Test Case ID,Enabled,Description,email,password,errMsg
+login,0,empty email and empty password,,,Enter your Email address and password correct
+login,0,empty email and correct password,,Password123,Enter your Email address and password correct
+login,1,existing email and empty password,student@gmail.com,,Enter your Email address and password correct
+login,1,non existing email and empty password ,creativelogodesigner@gmail.com,,Enter your Email address and password correct
+login,1,non existing email and password,creativelogodesigner@gmail.com,euyuyeuy,Enter your Email address and password correct
+login,0,existing email but the corresponding password in capital,student@gmail.com,PASSWORD123,Enter your Email address and password correct
+login,0,existing email and corresponding password both in capital,STUDENT@GMAIL.COM,PASSWORD123,Enter your Email address and password correct
+login,0,registered email with numbers and correct password,student@gmail.com99,Password123 ,Enter your Email address and password correct
+login,1,existing email and password with symbols,student@gmail.com#,Password123##,Enter your Email address and password correct
+login,1,existing email and incorrect password,student@gmail.com,euyuyeuy,Enter your Email address and password correct
+login,1,Enter an existing username and correct password,student@gmail.com,Password123,

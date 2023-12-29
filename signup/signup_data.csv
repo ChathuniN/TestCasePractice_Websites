@@ -1,0 +1,8 @@
+Test Case ID,Enabled,Description,firstName,surname,phone,street,city,country,postcode,email,password,confirmPassword,errMsg
+signup,0,Empty field,,,,,,,,,,,Fill out the all empty fields
+signup,1,All field correctly without confirm password,Jane,perera,789675496,school lane,Malabe,sri lanka,5675,jane@gmail.com,K2001,,PAssword and con.password does not match
+signup,1,All field correctly without password,Jane,perera,789675496,school lane,Malabe,sri lanka,5675,jane@gmail.com,,K2001,PAssword and con.password does not match
+signup,0,All field correctly without first name,,silva,712345678,2nd lane,kandy,sri lanka,2345,saduni@gmail.com,#123,#123,
+signup,0,All field correctly without password and confirm password,saduni,silva,712345678,3rd lane,kandy,sri lanka,2345,saduni@gmail.com,,,
+signup,0,All field correctly without email,Arjun,de silva,703456789,1st lane,Galle,sri lanka,8900,,$Arj,$Arj,
+signup,1,All field entered correctly,chathuni,perera,704993785,7th lane,Gampaha,sri lanka,5000,student@gmail.com,Password123,Password123,

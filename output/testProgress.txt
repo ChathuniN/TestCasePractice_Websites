@@ -1,0 +1,106 @@
+2023-12-29 16:13:31,108 Ig	Console				 Steps file not found: C:\Guru99\Console\Console.csv 
+2023-12-29 16:13:31,109 Ig	SavePerson				 Steps file not found: C:\Guru99\SavePerson\SavePerson.csv 
+2023-12-29 16:13:31,109 Ig	Login_1				 Steps file not found: C:\Guru99\Login_1\Login_1.csv 
+2023-12-29 16:13:31,109 Ig	Logout_1				 Steps file not found: C:\Guru99\Logout_1\Logout_1.csv 
+2023-12-29 16:13:31,109 Ig	DepositCash				 Steps file not found: C:\Guru99\DepositCash\DepositCash.csv 
+2023-12-29 16:13:31,109 Ig	QueryOptimization				 Steps file not found: C:\Guru99\QueryOptimization\QueryOptimization.csv 
+2023-12-29 16:13:31,109 Ig	OpenZeenUI				 Steps file not found: C:\Guru99\OpenZeenUI\OpenZeenUI.csv 
+2023-12-29 16:13:31,109 Ig	OpenProject				 Steps file not found: C:\Guru99\OpenProject\OpenProject.csv 
+2023-12-29 16:13:31,110 Ig	NavExpo				 Steps file not found: C:\Guru99\NavExpo\NavExpo.csv 
+2023-12-29 16:13:31,110 Ig	LoginExpo				 Steps file not found: C:\Guru99\LoginExpo\LoginExpo.csv 
+2023-12-29 16:13:31,110 Ig	Loading				 Steps file not found: C:\Guru99\Loading\Loading.csv 
+2023-12-29 16:13:31,110 Ig	jbOpenPortal				 Steps file not found: C:\Guru99\jbOpenPortal\jbOpenPortal.csv 
+2023-12-29 16:13:31,110 Ig	jbDataEntryBasic				 Steps file not found: C:\Guru99\jbDataEntryBasic\jbDataEntryBasic.csv 
+2023-12-29 16:13:31,110 Ig	curl				 Steps file not found: C:\Guru99\curl\curl.csv 
+2023-12-29 16:13:31,110 Ig	apiDataEntryBasic				 Steps file not found: C:\Guru99\apiDataEntryBasic\apiDataEntryBasic.csv 
+2023-12-29 16:13:40,501 EX     9254ms 2,2    Navigated to         https://demo.guru99.com/insurance/v1/register.php 	 
+2023-12-29 16:13:41,844 EX      283ms 3,2    Clicked              user_title 	 
+2023-12-29 16:13:43,077 EX      218ms 3,3    Clicked              /html/body/div[3]/form/div[2]/select/option[3] 	 
+2023-12-29 16:13:44,119 EX       36ms 3,4    Entered text in      user_firstname 	 
+2023-12-29 16:13:45,156 EX       35ms 3,5    Entered text in      user_surname 	 
+2023-12-29 16:13:46,186 EX       26ms 3,6    Entered text in      user_phone 	 
+2023-12-29 16:13:47,453 EX      260ms 3,7    Clicked              user_dateofbirth_1i 	 
+2023-12-29 16:13:48,701 EX      233ms 3,8    Clicked              /html/body/div[3]/form/div[2]/div[3]/select[1]/option[3] 	 
+2023-12-29 16:13:49,961 EX      251ms 3,9    Clicked              user_dateofbirth_2i 	 
+2023-12-29 16:13:51,191 EX      226ms 3,10   Clicked              /html/body/div[3]/form/div[2]/div[3]/select[2]/option[10] 	 
+2023-12-29 16:13:52,460 EX      254ms 3,11   Clicked              user_dateofbirth_3i 	 
+2023-12-29 16:13:53,688 EX      225ms 3,12   Clicked              /html/body/div[3]/form/div[2]/div[3]/select[3]/option[13] 	 
+2023-12-29 16:13:54,941 EX      241ms 3,13   Clicked              /html/body/div[3]/form/div[2]/div[4]/label[1] 	 
+2023-12-29 16:13:56,212 EX      257ms 3,14   Clicked              user_licenceperiod 	 
+2023-12-29 16:13:57,449 EX      230ms 3,15   Clicked              /html/body/div[3]/form/div[2]/div[5]/select/option[1] 	 
+2023-12-29 16:13:58,719 EX      260ms 3,16   Clicked              user_occupation_id 	 
+2023-12-29 16:13:59,957 EX      233ms 3,17   Clicked              /html/body/div[3]/form/div[2]/div[6]/select/option[6] 	 
+2023-12-29 16:14:01,012 EX       44ms 3,18   Entered text in      user_address_attributes_street 	 
+2023-12-29 16:14:02,057 EX       34ms 3,19   Entered text in      user_address_attributes_city 	 
+2023-12-29 16:14:03,093 EX       29ms 3,20   Entered text in      user_address_attributes_county 	 
+2023-12-29 16:14:04,123 EX       22ms 3,21   Entered text in      user_address_attributes_postcode 	 
+2023-12-29 16:14:05,154 EX       21ms 3,22   Entered text in      user_user_detail_attributes_email 	 
+2023-12-29 16:14:06,192 EX       30ms 3,23   Entered text in      user_user_detail_attributes_password 	 
+2023-12-29 16:14:07,214 EX       17ms 3,24   Entered text in      user_user_detail_attributes_password_confirmation 	 
+2023-12-29 16:14:09,382 EX     1161ms 3,25   Clicked              /html/body/div[3]/form/div[5]/input[2] 	 
+2023-12-29 16:14:10,642 EX      250ms 4,2    Clicked              user_title 	 
+2023-12-29 16:14:11,870 EX      225ms 4,3    Clicked              /html/body/div[3]/form/div[2]/select/option[3] 	 
+2023-12-29 16:14:12,903 EX       30ms 4,4    Entered text in      user_firstname 	 
+2023-12-29 16:14:13,945 EX       36ms 4,5    Entered text in      user_surname 	 
+2023-12-29 16:14:14,983 EX       36ms 4,6    Entered text in      user_phone 	 
+2023-12-29 16:14:16,252 EX      265ms 4,7    Clicked              user_dateofbirth_1i 	 
+2023-12-29 16:14:17,478 EX      219ms 4,8    Clicked              /html/body/div[3]/form/div[2]/div[3]/select[1]/option[3] 	 
+2023-12-29 16:14:18,746 EX      254ms 4,9    Clicked              user_dateofbirth_2i 	 
+2023-12-29 16:14:19,980 EX      230ms 4,10   Clicked              /html/body/div[3]/form/div[2]/div[3]/select[2]/option[10] 	 
+2023-12-29 16:14:21,248 EX      258ms 4,11   Clicked              user_dateofbirth_3i 	 
+2023-12-29 16:14:22,496 EX      234ms 4,12   Clicked              /html/body/div[3]/form/div[2]/div[3]/select[3]/option[13] 	 
+2023-12-29 16:14:23,731 EX      232ms 4,13   Clicked              /html/body/div[3]/form/div[2]/div[4]/label[1] 	 
+2023-12-29 16:14:25,002 EX      261ms 4,14   Clicked              user_licenceperiod 	 
+2023-12-29 16:14:26,241 EX      226ms 4,15   Clicked              /html/body/div[3]/form/div[2]/div[5]/select/option[1] 	 
+2023-12-29 16:14:27,510 EX      257ms 4,16   Clicked              user_occupation_id 	 
+2023-12-29 16:14:28,752 EX      227ms 4,17   Clicked              /html/body/div[3]/form/div[2]/div[6]/select/option[6] 	 
+2023-12-29 16:14:29,802 EX       34ms 4,18   Entered text in      user_address_attributes_street 	 
+2023-12-29 16:14:30,840 EX       30ms 4,19   Entered text in      user_address_attributes_city 	 
+2023-12-29 16:14:31,878 EX       30ms 4,20   Entered text in      user_address_attributes_county 	 
+2023-12-29 16:14:32,917 EX       29ms 4,21   Entered text in      user_address_attributes_postcode 	 
+2023-12-29 16:14:33,950 EX       17ms 4,22   Entered text in      user_user_detail_attributes_email 	 
+2023-12-29 16:14:34,991 EX       26ms 4,23   Entered text in      user_user_detail_attributes_password 	 
+2023-12-29 16:14:36,029 EX       34ms 4,24   Entered text in      user_user_detail_attributes_password_confirmation 	 
+2023-12-29 16:14:38,193 EX     1161ms 4,25   Clicked              /html/body/div[3]/form/div[5]/input[2] 	 
+2023-12-29 16:14:39,430 EX      235ms 8,2    Clicked              user_title 	 
+2023-12-29 16:14:40,653 EX      220ms 8,3    Clicked              /html/body/div[3]/form/div[2]/select/option[3] 	 
+2023-12-29 16:14:41,688 EX       31ms 8,4    Entered text in      user_firstname 	 
+2023-12-29 16:14:42,718 EX       27ms 8,5    Entered text in      user_surname 	 
+2023-12-29 16:14:43,747 EX       19ms 8,6    Entered text in      user_phone 	 
+2023-12-29 16:14:44,994 EX      245ms 8,7    Clicked              user_dateofbirth_1i 	 
+2023-12-29 16:14:46,225 EX      216ms 8,8    Clicked              /html/body/div[3]/form/div[2]/div[3]/select[1]/option[3] 	 
+2023-12-29 16:14:47,477 EX      242ms 8,9    Clicked              user_dateofbirth_2i 	 
+2023-12-29 16:14:48,695 EX      214ms 8,10   Clicked              /html/body/div[3]/form/div[2]/div[3]/select[2]/option[10] 	 
+2023-12-29 16:14:49,942 EX      240ms 8,11   Clicked              user_dateofbirth_3i 	 
+2023-12-29 16:14:51,165 EX      216ms 8,12   Clicked              /html/body/div[3]/form/div[2]/div[3]/select[3]/option[13] 	 
+2023-12-29 16:14:52,430 EX      255ms 8,13   Clicked              /html/body/div[3]/form/div[2]/div[4]/label[1] 	 
+2023-12-29 16:14:53,682 EX      250ms 8,14   Clicked              user_licenceperiod 	 
+2023-12-29 16:14:54,908 EX      216ms 8,15   Clicked              /html/body/div[3]/form/div[2]/div[5]/select/option[1] 	 
+2023-12-29 16:14:56,187 EX      262ms 8,16   Clicked              user_occupation_id 	 
+2023-12-29 16:14:57,428 EX      231ms 8,17   Clicked              /html/body/div[3]/form/div[2]/div[6]/select/option[6] 	 
+2023-12-29 16:14:58,469 EX       30ms 8,18   Entered text in      user_address_attributes_street 	 
+2023-12-29 16:14:59,510 EX       35ms 8,19   Entered text in      user_address_attributes_city 	 
+2023-12-29 16:15:00,558 EX       40ms 8,20   Entered text in      user_address_attributes_county 	 
+2023-12-29 16:15:01,602 EX       32ms 8,21   Entered text in      user_address_attributes_postcode 	 
+2023-12-29 16:15:02,647 EX       39ms 8,22   Entered text in      user_user_detail_attributes_email 	 
+2023-12-29 16:15:03,684 EX       34ms 8,23   Entered text in      user_user_detail_attributes_password 	 
+2023-12-29 16:15:04,705 EX       20ms 8,24   Entered text in      user_user_detail_attributes_password_confirmation 	 
+2023-12-29 16:15:07,208 EX     1487ms 8,25   Clicked              /html/body/div[3]/form/div[5]/input[2] 	 
+2023-12-29 16:15:08,267 EX       31ms 4,2    Entered text in      email 	 
+2023-12-29 16:15:09,306 EX       24ms 4,3    Entered text in      password 	 
+2023-12-29 16:15:12,114 EX     1806ms 4,4    Clicked              /html/body/div[3]/form/div[3]/input 	 
+2023-12-29 16:15:13,176 EX       46ms 5,2    Entered text in      email 	 
+2023-12-29 16:15:14,222 EX       31ms 5,3    Entered text in      password 	 
+2023-12-29 16:15:16,260 EX     1035ms 5,4    Clicked              /html/body/div[3]/form/div[3]/input 	 
+2023-12-29 16:15:17,320 EX       45ms 6,2    Entered text in      email 	 
+2023-12-29 16:15:18,362 EX       30ms 6,3    Entered text in      password 	 
+2023-12-29 16:15:20,447 EX     1071ms 6,4    Clicked              /html/body/div[3]/form/div[3]/input 	 
+2023-12-29 16:15:21,487 EX       27ms 10,2   Entered text in      email 	 
+2023-12-29 16:15:22,511 EX       22ms 10,3   Entered text in      password 	 
+2023-12-29 16:15:24,761 EX     1239ms 10,4   Clicked              /html/body/div[3]/form/div[3]/input 	 
+2023-12-29 16:15:25,808 EX       42ms 11,2   Entered text in      email 	 
+2023-12-29 16:15:26,848 EX       29ms 11,3   Entered text in      password 	 
+2023-12-29 16:15:28,943 EX     1094ms 11,4   Clicked              /html/body/div[3]/form/div[3]/input 	 
+2023-12-29 16:15:30,004 EX       44ms 12,2   Entered text in      email 	 
+2023-12-29 16:15:31,029 EX       24ms 12,3   Entered text in      password 	 
+2023-12-29 16:15:35,149 EX     3111ms 12,4   Clicked              /html/body/div[3]/form/div[3]/input 	 
